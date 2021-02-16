@@ -1,5 +1,3 @@
 #!/usr/bin/fish
 
-gem cleanup
-
-jekyll serve
+jekyll serve --watch --port 8000
