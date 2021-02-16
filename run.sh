@@ -1,7 +1,5 @@
 #!/usr/bin/fish
 
-jekyll build
+gem cleanup
 
-cd _site
-
-python -m http.server
+jekyll serve
