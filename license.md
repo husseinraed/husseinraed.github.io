@@ -3,6 +3,7 @@ layout: page
 title: License
 ---
 
+```
 CC0 1.0 Universal
 
 Statement of Purpose
@@ -119,3 +120,4 @@ Affirmer's express Statement of Purpose.
 
 For more information, please see
 <http://creativecommons.org/publicdomain/zero/1.0/>
+```
