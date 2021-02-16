@@ -1,3 +1,7 @@
 #!/usr/bin/fish
 
-jekyll serve --watch --port 8000
+jekyll build
+
+cd _site
+
+python -m http.server
