@@ -41,10 +41,12 @@ determines what actions the instructions dictates, and carries out
 those actions
 ```
 
-**`Q4) Computers have their own filling system also known as memory which is internal circuitry where programs and data are stored. There are two types of memory. name them:`**
+**`Q4) Write A note on computer memory`** 
 
 ```yaml
-Ans: 
+Ans: Computers have their own filling system also known as memory
+which is internal circuitry where programs and data are stored. 
+There are two types of memory.
   1- RAM (Random Access Memory)
   2- ROM (Read Only Memory)
 ```
